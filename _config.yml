@@ -1,0 +1,13 @@
+title: AI理科コーチ
+description: 「AI理科コーチ」の利用規約・プライバシーポリシー
+lang: ja
+theme: minima
+markdown: kramdown
+kramdown:
+  input: GFM
+header_pages:
+  - terms-of-service.md
+  - privacy-policy.md
+show_excerpts: false
+exclude:
+  - README.md
